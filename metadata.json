@@ -1,0 +1,5 @@
+{
+  "name": "AniControl Pro",
+  "description": "A high-performance animation controller for GIF and APNG files featuring frame-by-frame seeking, playback speed control, and AI-powered animation analysis.",
+  "requestFramePermissions": []
+}
