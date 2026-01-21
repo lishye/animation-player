@@ -2,6 +2,8 @@
 
 AniControl Pro is a high-performance, web-based animation controller designed for professional frame-by-frame analysis and playback management of GIF and APNG files. Built with React and powered by Gemini AI, it offers precise control over animated assets that standard image viewers lack.
 
+demo:[ljoy.net](https://www.ljoy.net)
+
 ## 🚀 Key Features
 
 - **Universal Animation Support**: Smoothly handles both legacy `.gif` and modern `.apng` (Animated PNG) formats, including static PNG fallback.
